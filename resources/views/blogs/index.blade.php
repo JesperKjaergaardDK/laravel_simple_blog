@@ -22,7 +22,6 @@
 
     <button type="submit" onclick="return confirm('Are you about deleting this blog')">Delete</button>
   </form>
-
   @endforeach
 
 </body>
